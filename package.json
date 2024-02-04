@@ -1,0 +1,19 @@
+{
+  "name": "jarvis-2024",
+  "version": "1.0.0",
+  "description": "<div align=\"center\" style=\"text-align: center; display: flex-horizontal; padding-bottom: 20px;\"> <h1>Just a Rather Vital Interface System</h1> <h2>Purdue University</h2> </div>",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.4"
+  }
+}
